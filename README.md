@@ -23,6 +23,7 @@
 | **API_ID / API_HASH**        | Platform data from which to launch a Telegram session (stock - Android)   |
 | **AUTO_UPGRADE_MULTICLICKS** | Whether the bot should upgrade the multitap (True / False)                |
 | **MAX_MULTICLICKS_LEVEL**    | Maximum level of multitap (eg 5)                                          |
+| **SLEEP_BETWEEN_ADS**        | Delay between ads in seconds (eg. 70)                                     |
 | **SLEEP_BETWEEN_TAP**        | Delay between taps in seconds (eg. 70)                                    |
 | **USE_PROXY_FROM_FILE**      | Whether to use proxy from the `bot/config/proxies.js` file (True / False) |
 | **RANDOM_TAPS_COUNT**        | Random number of taps (eg [50, 200]). MIN=1, MAX=1000                     |
